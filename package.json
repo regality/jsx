@@ -1,0 +1,16 @@
+{
+  "author": "Adam Blackburn",
+  "name": "jsx",
+  "description": "Javascript extension middleware",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git@github.com:regality/jsx.git"
+  },
+  "main": "jsx.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
